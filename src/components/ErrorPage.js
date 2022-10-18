@@ -4,7 +4,7 @@ import React from "react";
 const ErrorPage = () =>{
     return(
         <h1>
-            Whoops, it looks like ya mum is stupid
+            Error, not you need more pylons
         </h1>
 
     )
