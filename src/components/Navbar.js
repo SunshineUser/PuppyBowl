@@ -5,9 +5,10 @@ const Navbar = () =>{
     return(
         <nav>
             {/* use link element to create links for navbar being sure to use to*/}
+            <Link to="puppies">All Puppies</Link>
             <Link to="settings">Settings</Link>
             <Link to="about">About Us</Link>
-            <Link to="puppies">All Puppies</Link>
+            
             
         </nav>
 

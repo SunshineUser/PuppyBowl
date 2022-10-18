@@ -27,7 +27,7 @@ const SeeDetails = (props) =>{
             <div>Id#: {props.individualPuppy.id}</div>
             </div>
             
-            :<div>Reveal details? </div>
+            :<div> </div>
             }
         </div>
 
