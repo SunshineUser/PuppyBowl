@@ -1,0 +1,43 @@
+body{
+    background-Color:rgb(236, 188, 111);
+}
+
+.puppyBox{
+    display: flex;
+    justify-content: space-evenly;
+    font-size:2.5em;
+    color:rgba(255, 255, 0, 0.892);
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    background-Color:rgb(191, 138, 53);
+    border: grey solid 4px;
+    font-family: 'Fuzzy Bubbles', cursive;
+
+}
+
+.puppyImage{
+    display:block;
+    background-color:rgb(203, 150, 81);
+    width: 20%;
+    image-rendering:optimizeQuality;
+    border: rgb(23, 24, 2) solid 4px;
+}
+
+h2{
+    display:block;
+    text-align:center;
+    color:rgb(149, 57, 7);
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.puppyDetails{
+    display:flex;
+    font-size:.5em;
+    flex-direction:column;
+
+}
+
+.puppyDetails div{
+    margin-top: .5em;
+}
